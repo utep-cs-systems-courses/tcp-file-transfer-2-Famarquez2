@@ -1,0 +1,7 @@
+Hello world
+File you want to send: sending file
+framedSend: sending 153 byte message
+
+
+File you want to send: sending file
+framedSend: sending 12 byte message
